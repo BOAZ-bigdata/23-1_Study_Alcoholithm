@@ -2,3 +2,11 @@
 
 <h1 align='center'> 🍺 알콜리즘 🍺 </h1>
 <h4 align='center'> 코테 면접 대비 스터디 </h4>
+
+## 파일 이름 형식
+- [BOJ]문제번호_이름.py
+- [Programmers]문제번호_이름.py
+
+## 커밋 컨벤션
+- 풀이 방식
+  + ex) bfs/dfs, min heap

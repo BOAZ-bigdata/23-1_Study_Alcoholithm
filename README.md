@@ -4,8 +4,8 @@
 <h4 align='center'> 코테 면접 대비 스터디 </h4>
 
 ## 파일 이름 형식
-- [BOJ]문제번호_이름.py
-- [Programmers]문제번호_이름.py
+- [BOJ]문제번호_이름.md
+- [Programmers]문제번호_이름.md
 
 ## 커밋 컨벤션
 - 풀이 방식

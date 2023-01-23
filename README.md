@@ -1,15 +1,19 @@
 <h1 align='center'> 🍺 알콜리즘 🍺 </h1>
 <h4 align='center'> 코테 면접 대비 스터디 </h4>
 
-<div align=center>
+<div align=center display=flex>
+
+<div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BOAZ-bigdata/23-1_Study_Alcholithm&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-<div align='center'>
+<div href='https://www.notion.so/70c698a2cc114eb8bdf84f2a034db3b2'>
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
+
+</div>
 
 </div>
 

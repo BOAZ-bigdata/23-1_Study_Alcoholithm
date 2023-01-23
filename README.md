@@ -9,9 +9,9 @@
 
 </div>
 
-<div href='https://www.notion.so/70c698a2cc114eb8bdf84f2a034db3b2'>
+<div>
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/2b9d8e5fb004482faef72d8c671bd831)
 
 </div>
 

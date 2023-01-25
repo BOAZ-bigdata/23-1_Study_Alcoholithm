@@ -1,5 +1,6 @@
 # 1주차
-[[BOJ]](https://www.acmicpc.net/workbook/view/1152)
+
+## [[BOJ]](https://www.acmicpc.net/workbook/view/1152) 삼성 SW 역량 테스트 기출 문제
 
 |문제 |난이도|문제 제목|담당          |
 |-----|--|-------------|--------------|

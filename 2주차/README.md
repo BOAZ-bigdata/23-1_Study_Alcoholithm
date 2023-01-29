@@ -1,6 +1,6 @@
 # 2주차
 
-## [[Programmers]](https://www.acmicpc.net/workbook/view/1152) 카카오 코딩  테스트 기출 문제
+## [[Programmers]](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&levels=3&partIds=37527%2C25448%2C20069%2C17214%2C12286%2C9317&languages=python3%2Cjavascript) 카카오 코딩  테스트 기출 문제
 
 |문제 |난이도|문제 제목      |담당          |
 |-----|---|------------------|--------------|

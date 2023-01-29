@@ -1,4 +1,4 @@
-# [Programmers 92344: 파괴되지 않은 건물](hhttps://school.programmers.co.kr/learn/courses/30/lessons/92344)
+# [Programmers 92344: 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
 
 Brute-force 알고리즘을 적용하면 `250,000 * 1,000 * 1,000`의 시간 복잡도를 가지기 때문에 효율성 테스트를 통과할 수 없다.
 

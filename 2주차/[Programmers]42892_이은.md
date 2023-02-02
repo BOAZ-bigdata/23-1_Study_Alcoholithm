@@ -65,9 +65,6 @@ class BinarySearchTree:
         return arr
                     
 def solution(nodeinfo):
-    if len(nodeinfo) == 1:
-        return [[1], [1]]
-    
     sorted_nodeinfo = sorted(nodeinfo, key=lambda x:(-x[1], x[0]))
     root_node = sorted_nodeinfo[0]
     root = Node(nodeinfo.index(root_node) + 1, root_node[0], root_node[1])

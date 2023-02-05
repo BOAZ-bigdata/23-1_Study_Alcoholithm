@@ -16,7 +16,7 @@
 - 음... sliding window 방식으로 하나하나 대조해봐야 할 듯
 ### key가 lock맵을 초과하는 경우는 어떻게 처리할까?
 - lock맵을 초과하는 key의 일부 좌표를 무시할 수는 없다 -> 일부 좌표를 버림으로써 원래 불가능한데 가능해지는 경우가 발생할 수 있음
-- sliding window 쓰는 김에 pooling 처리까지 해줘서 하면
+- sliding window 쓰는 김에 padding 처리까지 해줘서 하면
 - 완벽한 convolution...
 
 ## 풀이

@@ -4,10 +4,11 @@
 ![image](https://user-images.githubusercontent.com/88718806/216805885-50023cc3-8887-4391-a29f-22a2c5ed3d96.png)
 
 ## 풀이
+- 아이디어
+  - 어디까지 합승할지. 그 지점을 찾기
 - floyd-warshall 알고리즘
 
 ## code
-
 ~~~python
 ### floyd-warshall 알고리즘
 def floyd(dist, n):

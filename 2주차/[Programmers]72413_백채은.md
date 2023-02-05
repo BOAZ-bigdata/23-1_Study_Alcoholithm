@@ -18,7 +18,7 @@ def floyd(dist, n):
                     dist[i][j] = dist[i][k] + dist[k][j] # dist[] : 모든 출발점과 도착점의 최소비용
                     
                     
-INF = 40000000
+INF = 20000001
 def solution(n, s, a, b, fares):
     answer = 0
     

@@ -4,3 +4,6 @@
 |------|---------|--------------------|
 |조은학|[BOJ]2225|박규연, 백채은, 이은|
 |백채은|[BOJ]1965|박규연, 이은, 조은학|
+
+### 풀이 과정
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/88718806/219941726-190197f0-ca12-49da-87c3-1014ddd6deba.png">
